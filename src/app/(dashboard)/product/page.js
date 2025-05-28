@@ -1,4 +1,4 @@
-// URL에 product 라고 치면 나오는 페이지
+// URL 경로에 /product 라고 치면 나오는 페이지
 
 "use client";
 
